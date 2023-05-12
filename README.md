@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on several different projects <br>
 🤝 I’m looking for a place to fit in<br>
-🌱 I’m currently learning Typescript, Svelete, React, Go, Rust, and GraphQl<br>
+🌱 I’m currently learning Typescript, Svelete, React, Go, Rust, and GraphQL<br>
 💬 Ask me about anything about what I do<br>
 ⚡ Fun fact I like to spend hours on the internet researching opensource projects
 
