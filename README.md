@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on gate_guardian an auth server<br>🤝 I’m looking for help with on building gate_guardian<br>🌱 I’m currently learning Typescript, Svelete, React, Go, Rust, GraphQl<br>💬 Ask me about anything about what I do<br>⚡ Fun fact I like to spend hours on the internet researching about opensource projects
+🔭 I’m currently working on several different projects <br>
+🤝 I’m looking for a place to fit in<br>
+🌱 I’m currently learning Typescript, Svelete, React, Go, Rust, and GraphQl<br>
+💬 Ask me about anything about what I do<br>
+⚡ Fun fact I like to spend hours on the internet researching opensource projects
 
 
 # 💻 Tech Stack:
