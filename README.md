@@ -2,10 +2,6 @@
   # Hi There. I Am Arkam Fahry 😁
 </h1>
 
-<p align="center">
-  <img src="https://github.com/ArkamFahry/ArkamFahry/raw/main/assets/92285161/7fb36fda-dbe9-48de-8a3e-b0fd9680df97.gif" alt="Me Running Through The Csomos">
-</p>
-
 # 💫 About Me:
 🔭 I’m currently working on several different projects <br>
 🤝 I’m looking for a place to fit in<br>
@@ -25,9 +21,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=ArkamFahry&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
