@@ -1,3 +1,9 @@
+# I Am Arkam Fahry 😁
+![Me Running Through The Csomos](https://github.com/ArkamFahry/ArkamFahry/assets/92285161/7fb36fda-dbe9-48de-8a3e-b0fd9680df97)
+A Person With An Extreme Amount Of Imposter Syndrom Running Away From Sanity
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on several different projects <br>
 🤝 I’m looking for a place to fit in<br>
@@ -17,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://random-memer.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArkamFahry&icon=0&color=0)](https://visitcount.itsvg.in)
