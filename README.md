@@ -2,6 +2,10 @@
   # Hi There. I Am Arkam Fahry 😁
 </h1>
 
+<div align="canter">
+  <img src="https://api.dicebear.com/7.x/fun-emoji/svg?backgroundType=gradientLinear" alt="avatar"/>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on several different projects <br>
 🤝 I’m looking for a place to fit in<br>
