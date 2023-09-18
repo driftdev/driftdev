@@ -11,7 +11,7 @@
 🌱 I’m currently learning Typescript, Svelete, React, Go, Rust, and GraphQL<br>
 💬 Ask me anything about what I do<br>
 ⚡ Fun fact I like to spend hours on the internet researching<br>
-🧠 Check out my [KnowledgeBase](https://arkamfahry.github.io/KnowledgeBase/#/)
+🧠 Check out my <a href="https://arkamfahry.github.io/KnowledgeBase/#/" target="_blank">KnowledgeBase</a>
 
 
 # 💻 Tech Stack:
