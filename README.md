@@ -7,11 +7,11 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on several different projects <br>
 🤝 I’m looking for a place to fit in<br>
 🌱 I’m currently learning Typescript, Svelete, React, Go, Rust, and GraphQL<br>
 💬 Ask me anything about what I do<br>
-⚡ Fun fact I like to spend hours on the internet researching opensource projects
+⚡ Fun fact I like to spend hours on the internet researching<br>
+🧠 Check out my [KnowledgeBase](https://arkamfahry.github.io/KnowledgeBase/#/)
 
 
 # 💻 Tech Stack:
