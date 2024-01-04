@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 🤝 I’m looking for a place to fit in<br>
-🌱 I’m currently learning Typescript, Svelete, React, Go, Rust, and GraphQL<br>
+🌱 I’m currently learning Typescript, Svelete, React, Flutter, Go, Rust, and GraphQL<br>
 💬 Ask me anything about what I do<br>
 ⚡ Fun fact I like to spend hours on the internet researching<br>
 🧠 Check out my [KnowledgeBase](https://arkamfahry.github.io/KnowledgeBase/#/)
