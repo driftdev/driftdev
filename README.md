@@ -13,7 +13,7 @@
 ⚡ Fun fact I like to spend hours on the internet researching<br>
 🧠 Check out my [KnowledgeBase](https://arkamfahry.github.io/KnowledgeBase/#/)
 
-### 🧑‍💻 My Card
+# 🃏 My Card:
 <a href="https://app.daily.dev/arkamfahry"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?r=ig5" width="356" alt="Arkam Fahry's Dev Card"/></a>
 
 # 💻 Tech Stack:
