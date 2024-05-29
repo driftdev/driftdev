@@ -10,7 +10,6 @@
 🤝 I’m looking for a place to fit in<br>
 🌱 I’m currently learning Typescript, Svelete, React, Flutter, Go, Rust, Elixir, Python and GraphQL<br>
 💬 Ask me anything about what I do<br>
-⚡ Fun fact I like to spend hours on the internet researching<br>
 
 # 🃏 My Card:
 <a href="https://app.daily.dev/arkamfahry"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=toi" width="356" alt="Arkam Fahry's Dev Card"/></a>
