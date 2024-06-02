@@ -3,7 +3,7 @@
 </h1>
 
 <div align="canter">
-  <img src="https://api.dicebear.com/7.x/fun-emoji/svg?backgroundType=gradientLinear" alt="avatar"/>
+  <img src="https://github.com/arkamfahry/arkamfahry/assets/92285161/bdcca9bf-4ae8-4382-afa8-c4b650056323" alt="avatar"/>
 </div>
 
 # 💫 About Me:
