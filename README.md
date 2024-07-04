@@ -8,7 +8,7 @@
 
 # 💫 About Me
 🤝 I’m looking for a place to fit in<br>
-🌱 I’m currently learning Typescript, Svelete, React, Flutter, Go, Rust, Elixir, Python and GraphQL<br>
+🌱 I’m currently learning Typescript, Svelete, React, Flutter, Go, Rust, Elixir and Python<br>
 💬 Ask me anything about what I do<br>
 
 # 🃏 My Card
