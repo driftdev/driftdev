@@ -3,7 +3,7 @@
 </h1>
 
 <div align="canter">
-  <img src="https://github.com/driftdev/driftdev/assets/92285161/48af474c-01c3-4a07-b1bd-401ceb85a29d" alt="avatar"/>
+  <img src="https://github.com/driftdev/driftdev/assets/92285161/222f46ca-1a4d-4eb0-ba2b-e1f1ab6dfc45" alt="avatar"/>
 </div>
 
 # 💫 About Me
