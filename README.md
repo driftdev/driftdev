@@ -99,6 +99,7 @@
 ![REST](https://img.shields.io/badge/rest-0B2C4A.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![GRPC](https://img.shields.io/badge/grpc-2da6b0.svg?style=for-the-badge&logo=grpc&logoColor=white)
 ![GRPC Web](https://img.shields.io/badge/grpc%20web-008FC7.svg?style=for-the-badge&logo=grpweb&logoColor=white)
+![WebSocket](https://img.shields.io/badge/websocket-0DBDFF.svg?style=for-the-badge&logo=websocket&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/openapi-6BA539.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![OpenTelemetry](https://img.shields.io/badge/opentelemetry-000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white) 
