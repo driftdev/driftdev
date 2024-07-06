@@ -40,7 +40,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Fastly](https://img.shields.io/badge/fastly-FF282D.svg?style=for-the-badge&logo=fastly&logoColor=white) 
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Backblaze](https://img.shields.io/badge/backblaze-E21E29.svg?style=for-the-badge&logo=backblaze&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -77,6 +76,8 @@
 ![FerretDB](https://img.shields.io/badge/ferretdb-042133.svg?style=for-the-badge&logo=ferretdb&logoColor=white) 
 ![ClickHouse](https://img.shields.io/badge/clickhouse-FFCC01.svg?style=for-the-badge&logo=clickhouse&logoColor=white) 
 ![RocksDB](https://img.shields.io/badge/rocksdb-2A2A2A.svg?style=for-the-badge&logo=rocksdb&logoColor=white) 
+![Backblaze](https://img.shields.io/badge/backblaze-E21E29.svg?style=for-the-badge&logo=backblaze&logoColor=white)
+![MinIO](https://img.shields.io/badge/minio-C72E49.svg?style=for-the-badge&logo=minio&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![PocketBase](https://img.shields.io/badge/pocketbase-B8DBE4.svg?style=for-the-badge&logo=pocketbase&logoColor=white) 
 ![Appwrite](https://img.shields.io/badge/appwrite-FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) 
@@ -93,6 +94,7 @@
 ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) 
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) 
+![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
@@ -107,7 +109,8 @@
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![Obsidian](https://img.shields.io/badge/obsidian-7C3AED.svg?style=for-the-badge&logo=obsidian&logoColor=white) 
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white) 
-![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white) 
+![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white) 
+![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white) 
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=driftdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
