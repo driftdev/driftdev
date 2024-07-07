@@ -14,7 +14,7 @@
 # 🃏 Dev Card
 <a href="https://app.daily.dev/arkamfahry"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=hte" width="356" alt="Arkam Fahry's Dev Card"/></a>
 
-# 🧠 Second Brain
+# 🧠 Personal Website
 [DriftMind](https://driftdev.github.io/driftmind/)
 
 # 📊 GitHub Stats
