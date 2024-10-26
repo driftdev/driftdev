@@ -15,7 +15,7 @@
 <a href="https://app.daily.dev/teapartydev"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=tcv" width="356" alt="TeaPartyDev's Dev Card"/></a>
 
 # 🧠 Personal Website
-[**TeaPartyDev**](https://driftdev.github.io/teapartydev-blog/)
+[**TeaPartyDev**](https://teapartydev.github.io/teapartydev-blog/)
 
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=teapartydev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
