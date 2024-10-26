@@ -18,6 +18,6 @@
 [**TeaPartyDev**](https://driftdev.github.io/teapartydev-blog/)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=driftdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=driftdev&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=driftdev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=teapartydev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=teapartydev&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=teapartydev&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
