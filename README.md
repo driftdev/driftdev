@@ -122,10 +122,13 @@
   <img src="https://github.com/user-attachments/assets/5ed068f9-4cde-4f98-9dd5-7d9750e92eda" height="40" alt="lunacy"  />
   <img width="12" />
 
-  <img src="https://github.com/user-attachments/assets/a7e83e72-3920-4aa1-baf9-d35b487d6e58" height="40" alt="rive"  />
+  <img src="https://github.com/user-attachments/assets/6c5dee8e-c668-459d-920d-f7cd945e2e39" height="40" alt="rive"  />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" alt="blender"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/43cca564-ea61-4ff1-b6d0-3cfe3bc48337" height="40" alt="cascaudeur"  />
   <img width="12" />
 
   <img src="https://github.com/user-attachments/assets/7a421d0f-b108-46b4-ae21-db64d4c42e01" height="40" alt="krita"  />
@@ -136,6 +139,10 @@
   
   <img src="https://github.com/user-attachments/assets/40e0716b-3aed-4506-91b9-2c36a380eb38" height="40" alt="affinity designer"  />
   <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/f326540f-c0cb-4466-adbe-0e543ea63e33" height="40" alt="affinity publisher"  />
+  <img width="12" />
+
 
   <img src="https://github.com/user-attachments/assets/cda33553-a6d1-40f2-b29b-0c74a48ae299" height="40" alt="davinci resolve"  />
   <img width="12" />
