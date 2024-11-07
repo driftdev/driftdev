@@ -74,7 +74,19 @@
   <img src="https://github.com/user-attachments/assets/cb152919-2759-4463-8449-13d675fca37b" height="40" alt="xata"  />
   <img width="12" />
 
+  <img src="https://github.com/user-attachments/assets/cb152919-2759-4463-8449-13d675fca37b" height="40" alt="xata"  />
+  <img width="12" />
+
   <img src="https://github.com/user-attachments/assets/a0da7365-d186-41ca-919e-b34d4fb25625" height="40" alt="neon"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/8823bfad-26bc-47f4-80a8-88c650e0fb3e" height="40" alt="fly"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/1b66312c-0935-4447-b38f-c55fd74bf708" height="40" alt="vercel"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/53656b41-a139-4f30-84a6-aa03aa0da4b1" height="40" alt="koyeb"  />
   <img width="12" />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun"  />
