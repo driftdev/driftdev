@@ -65,6 +65,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase logo"  />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun logo"  />
   <img width="12" />
 
@@ -89,16 +92,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yugabytedb/yugabytedb-original.svg" height="40" alt="yugabytedb logo"  />
   <img width="12" />
 
-  <img src="https://github.com/user-attachments/assets/30f061a9-15cc-4325-969b-c40c3bc0d97d" height="40" alt="edgedb logo"  />
+  <img src="https://github.com/user-attachments/assets/6213ad9e-0a00-4f15-b6a9-0d29dcea51d2" height="40" alt="edgedb logo"  />
   <img width="12" />
 
-  <img src="https://github.com/user-attachments/assets/ddc86c11-cd7b-4262-bb01-8e855d1611d0" height="40" alt="meilisearch logo"  />
+  <img src="https://github.com/user-attachments/assets/12c1e866-0958-4752-a824-3a65f854f12d" height="40" alt="meilisearch logo"  />
   <img width="12" />
 
-  <img src="https://github.com/user-attachments/assets/51f8a656-4240-42d7-b5a3-b1361b9de5b6" height="40" alt="typesense logo"  />
+  <img src="https://github.com/user-attachments/assets/49474ec0-fa19-4ae3-8f27-9847a1ed08bd" height="40" alt="typesense logo"  />
   <img width="12" />
   
-  <img src="https://github.com/user-attachments/assets/360c57b2-70a8-4bb4-937a-d9b183b3f02f" height="40" alt="nats logo"  />
+  <img src="https://github.com/user-attachments/assets/c9e1448e-433c-497f-beab-ab4ce435cf46" height="40" alt="nats logo"  />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
