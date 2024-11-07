@@ -89,6 +89,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yugabytedb/yugabytedb-original.svg" height="40" alt="yugabytedb logo"  />
   <img width="12" />
   
+  <img src="https://github.com/user-attachments/assets/1127f6cc-7d4f-4b09-89f0-ed4319388d1d" height="40" alt="yugabytedb logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   
