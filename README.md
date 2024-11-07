@@ -113,6 +113,18 @@
   <img src="https://github.com/user-attachments/assets/c9e1448e-433c-497f-beab-ab4ce435cf46" height="40" alt="nats"  />
   <img width="12" />
 
+  <img src="https://github.com/user-attachments/assets/12f91bc8-c905-4665-8def-5669f5b42106" height="40" alt="risingwave"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/53d037bf-96f8-4778-afc4-14e9b5f0b744" height="40" alt="readyset"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/5abf81f3-bd41-4b14-9d5a-7f9699bde042" height="40" alt="minio"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/d6af8bc4-af29-4c4b-9de7-37ae2c3665de" height="40" alt="backblaze"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker"  />
   <img width="12" />
 
