@@ -88,10 +88,19 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yugabytedb/yugabytedb-original.svg" height="40" alt="yugabytedb logo"  />
   <img width="12" />
-  
-  <img src="https://github.com/user-attachments/assets/1127f6cc-7d4f-4b09-89f0-ed4319388d1d" height="40" alt="yugabytedb logo"  />
+
+  <img src="https://github.com/user-attachments/assets/30f061a9-15cc-4325-969b-c40c3bc0d97d" height="40" alt="edgedb logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/ddc86c11-cd7b-4262-bb01-8e855d1611d0" height="40" alt="meilisearch logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/51f8a656-4240-42d7-b5a3-b1361b9de5b6" height="40" alt="typesense logo"  />
   <img width="12" />
   
+  <img src="https://github.com/user-attachments/assets/360c57b2-70a8-4bb4-937a-d9b183b3f02f" height="40" alt="nats logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   
