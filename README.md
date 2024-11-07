@@ -128,6 +128,9 @@
   <img src="https://github.com/user-attachments/assets/12f91bc8-c905-4665-8def-5669f5b42106" height="40" alt="risingwave"  />
   <img width="12" />
 
+  <img src="https://github.com/user-attachments/assets/59baa85a-f89d-447c-85ec-4b27a625f724" height="40" alt="clickhouse"  />
+  <img width="12" />
+
   <img src="https://github.com/user-attachments/assets/53d037bf-96f8-4778-afc4-14e9b5f0b744" height="40" alt="readyset"  />
   <img width="12" />
 
