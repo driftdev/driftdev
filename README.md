@@ -68,6 +68,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
   <img width="12" />
 
+  <img src="https://github.com/user-attachments/assets/47c8fa0e-4586-4bfd-9766-730e8f5fb6bf" height="40" alt="convex logo"  />
+  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" height="40" alt="bun logo"  />
   <img width="12" />
 
@@ -104,9 +107,21 @@
   <img src="https://github.com/user-attachments/assets/c9e1448e-433c-497f-beab-ab4ce435cf46" height="40" alt="nats logo"  />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  
+
+  <img src="https://github.com/user-attachments/assets/5ed068f9-4cde-4f98-9dd5-7d9750e92eda" height="40" alt="lunacy logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/a7e83e72-3920-4aa1-baf9-d35b487d6e58" height="40" alt="lunacy logo"  />
+  <img width="12" />
+
+  <img src="https://github.com/user-attachments/assets/12543086-9005-4aeb-93f9-db22cb570d13" height="40" alt="rive logo"  />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
   <img width="12" />
 </div>
