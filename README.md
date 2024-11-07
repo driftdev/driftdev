@@ -17,7 +17,7 @@
 # 🧠 Personal Website
 [**TeaPartyDev**](https://teapartydev.github.io/teapartydev-blog/)
 
-# 🛠️ Tools and Tech
+# 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="go"  />
