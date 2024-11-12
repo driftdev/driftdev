@@ -3,8 +3,9 @@
 </h1>
 
 <div align="canter">
-  <img src="https://github.com/user-attachments/assets/655b8b3b-373f-4f8b-9141-edb592e8fe45" alt="avatar"/>
+  <img src="https://github.com/user-attachments/assets/3d532058-5de3-489d-ade3-79b91e3cd0fe" alt="TeaPartyDev Logo" style="width: auto; height: auto;"/>
 </div>
+
 
 # 💫 About
 🤝 I’m looking for a place to fit in<br>
