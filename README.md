@@ -3,7 +3,7 @@
 </h1>
 
 <div align="canter">
-  <img src="https://github.com/user-attachments/assets/3d532058-5de3-489d-ade3-79b91e3cd0fe" alt="TeaPartyDev Logo" style="width: auto; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/7934c9dc-9f88-4188-8a40-5f9f07f17635" alt="TeaPartyDev Logo" style="width: auto; height: auto;"/>
 </div>
 
 
