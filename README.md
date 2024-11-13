@@ -3,7 +3,7 @@
 </h1>
 
 <div align="canter">
-  <img src="https://github.com/user-attachments/assets/7934c9dc-9f88-4188-8a40-5f9f07f17635" alt="TeaPartyDev Logo" style="width: auto; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/93f7f070-52f5-4a48-9b43-8c44cc9d892b" alt="TeaPartyDev Logo" style="width: 1000px; height: auto;"/>
 </div>
 
 
@@ -13,7 +13,7 @@
 💬 Ask me anything about what I do<br>
 
 # 🃏 Dev Card
-<a href="https://app.daily.dev/teapartydev"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=3co" width="356" alt="TeaPartyDev's Dev Card"/></a>
+<a href="https://app.daily.dev/teapartydev"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=1g5" width="356" alt="TeaPartyDev's Dev Card"/></a>
 
 # 📊 GitHub Stats
 <img src="https://streak-stats.demolab.com?user=teapartydev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" alt="streak graph"  />
