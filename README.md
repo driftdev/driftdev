@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi There. I Am TeaPartyDev
+  Hi There. I Am CodeFrantic
 </h1>
 
 <div align="canter">
@@ -15,5 +15,5 @@
 <a href="https://app.daily.dev/teapartydev"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=1g5" width="356" alt="TeaPartyDev's Dev Card"/></a>
 
 # 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=teapartydev&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=codefrantic&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" alt="streak graph"  />
 
