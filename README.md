@@ -12,7 +12,7 @@
 💬 Ask me anything about what I do<br>
 
 # 🃏 Dev Card
-<a href="https://app.daily.dev/codefrantic"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=wz5" width="356" alt="CodeFrantic's Dev Card"/></a>
+<a href="https://app.daily.dev/pixelbend"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=1a8" width="356" alt="PixelBend's Dev Card"/></a>
 
 # 📊 GitHub Stats
 <img src="https://streak-stats.demolab.com?user=codefrantic&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" alt="streak graph"  />
