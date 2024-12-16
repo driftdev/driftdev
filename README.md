@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi There. I Am CodeFrantic
+  Hi There. I Am PixelBend
 </h1>
 
 <div align="canter">
