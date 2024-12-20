@@ -15,5 +15,5 @@
 <a href="https://app.daily.dev/pixelbend"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=1a8" width="356" alt="PixelBend's Dev Card"/></a>
 
 # 📊 GitHub Stats
-<img src="https://streak-stats.demolab.com?user=codefrantic&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=pixelbend&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" alt="streak graph"  />
 
