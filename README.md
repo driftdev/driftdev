@@ -1,9 +1,10 @@
 <h1 align="center">
   Hi There. I Am PixelBend
+
 </h1>
 
 <div align="canter">
-  <img src="https://github.com/user-attachments/assets/8b4c5aab-baab-467d-971f-899b4f89f24b" alt="TeaPartyDev Logo" style="width: 1000px; height: auto;"/>
+  <img src="https://github.com/user-attachments/assets/160f34b2-3db6-4728-b0db-7ee0423be4c8" alt="TeaPartyDev Logo" style="width: 1000px; height: auto;"/>
 </div>
 
 # 💫 About
