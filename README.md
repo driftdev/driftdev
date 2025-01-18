@@ -10,7 +10,7 @@
 # 💫 About
 🤝 I’m looking for a place to fit in<br>
 🌱 I’m currently learning Typescript, Svelete, React, Flutter, Go, Rust, Elixir and Python<br>
-💬 Ask me anything about what I do<br>
+🧑‍💻 I like to reaserch about ways to make develpment easy and fun <br>
 
 # 🃏 Dev Card
 <a href="https://app.daily.dev/pixelbend"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=1a8" width="356" alt="PixelBend's Dev Card"/></a>
