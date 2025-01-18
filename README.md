@@ -13,7 +13,7 @@
 🧑‍💻 I like to build cool projects <br>
 
 # 🃏 Dev Card
-<a href="https://app.daily.dev/pixelbend"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=1a8" width="356" alt="PixelBend's Dev Card"/></a>
+<a href="https://app.daily.dev/pixelbend"><img src="https://api.daily.dev/devcards/v2/92Tc0MIH5UarnguOUFTDJ.png?type=default&r=ci9" width="356" alt="PixelBend's Dev Card"/></a>
 
 # 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=pixelbend&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="PixelBend's Stats"/>
